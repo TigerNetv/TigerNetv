@@ -13,3 +13,7 @@ _That means that I take advantage of the Internet to make money off of people (j
 
 
 _You can check out my codes here, [Python, C#, C++, Java, Ruby, GO]_
+
+
+
+_Ariel Shabaev, TigerNetv_
