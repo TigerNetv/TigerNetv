@@ -1,10 +1,10 @@
 **_🔭 Welcome home, my friend._**
 
-Thanks for accidentally stumbling upon my small stake of the Internet; I'm happy you're here.
-As it turns out, this is not only my home — but yours too.
+_Thanks for accidentally stumbling upon my small stake of the Internet; I'm happy you're here.
+As it turns out, this is not only my home — but yours too._
 
-## I am a freelancer.
-That means that I take advantage of the Internet to make money off of people (just kidding 😄).
+**_I am a freelancer._**
+_That means that I take advantage of the Internet to make money off of people (just kidding 😄)._
 
-## I am a Programmer & Penetration Tester.
-You can check out my codes here [Python, C#, C++, Java, Ruby, GO]
+**_I am a Programmer & Penetration Tester._**
+_You can check out my codes here, [Python, C#, C++, Java, Ruby, GO]_
