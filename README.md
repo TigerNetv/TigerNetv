@@ -12,4 +12,4 @@ _That means that I take advantage of the Internet to make money off of people (j
 **_I am a Programmer & Penetration Tester._**
 
 
-_You can check out my codes here, [Python, C#, C++, Java, Ruby, GO]_
+_You can check out my codes here, [Python, C#, Java, Ruby, GO]_
